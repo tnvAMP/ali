@@ -15,5 +15,6 @@ print("Hello Diyorali")
 
 print("Hello Vali")
 
-
 print("Funksiya qosh vali")
+
+print("Nima qilding Qodirali")
