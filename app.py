@@ -11,6 +11,8 @@ def calculate_painting_time (colors: list) -> int:
 colors = []
 result = 2
 print(calculate_painting_time(colors))
+print("Hello Diyorali")
+
 print("Hello Vali")
 
 
