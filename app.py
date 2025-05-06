@@ -12,3 +12,6 @@ colors = []
 result = 2
 print(calculate_painting_time(colors))
 print("Hello Vali")
+
+
+print("Funksiya  qosh vali")
