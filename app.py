@@ -14,3 +14,4 @@ print(calculate_painting_time(colors))
 print("Hello Diyorali")
 
 print("Hello Vali")
+print("Yoz birnimalani tezroq bratishka")
